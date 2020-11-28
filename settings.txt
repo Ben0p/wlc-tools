@@ -1,8 +1,0 @@
-maps_file=aps.txt
-wlc_ip=wlc.ip.address.here
-wlc_username=wlcusername
-both_ways=true
-data_rate=18
-packets_per_second=20
-packet_size=100
-duration=15
